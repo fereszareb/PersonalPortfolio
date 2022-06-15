@@ -1,4 +1,3 @@
-import React from "react";
 import AboutSection from "./HomeComponents/About-Section";
 import ContactSection from "./HomeComponents/Contact-Section";
 import ExperienceSection from "./HomeComponents/Experience-Section";
@@ -19,6 +18,7 @@ const Home = () => {
       <ContactSection />
       <RecommandationSection />
       <FooterSection />
+      sgbz sdishd sh
     </div>
   );
 };
